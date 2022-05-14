@@ -1,2 +1,2 @@
-# ML2
+# Create Novels Using RNN
 RNN_TaoTieuThuyet
